@@ -1,0 +1,8 @@
+{
+  "num_epochs_run": 100,
+  "final_G_loss": 31.584566626319273,
+  "final_D_loss": 0.26608975956784214,
+  "avg_epoch_seconds": 67.03123684883117,
+  "train_pairs": 6000,
+  "val_pairs": 1000
+}
